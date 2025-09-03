@@ -1,4 +1,5 @@
-![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966 (1)](https://github.com/user-attachments/assets/914e9169-2c5a-4b46-8b56-60fe18bf7cf7)
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/b7e6bb34-bc42-4253-ad26-bda1ec8c7b60" />
+
 
 <h1 align="center">Hi 👋, I'm Akshay</h
 <h3 align="center">A passionate Fullstack developer from India</h3>
