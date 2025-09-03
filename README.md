@@ -1,3 +1,4 @@
+<img width="2428" height="764" alt="68747470733a2f2f686f6c6f70696e2e6d652f7961646c616d616e69" src="https://github.com/user-attachments/assets/60dff913-2018-4817-b200-9f7bd681f35b" />
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
