@@ -1,5 +1,6 @@
-<img width="2428" height="764" alt="68747470733a2f2f686f6c6f70696e2e6d652f7961646c616d616e69" src="https://github.com/user-attachments/assets/60dff913-2018-4817-b200-9f7bd681f35b" />
-<h1 align="center">Hi 👋, I'm Akshay</h1>
+![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966 (1)](https://github.com/user-attachments/assets/914e9169-2c5a-4b46-8b56-60fe18bf7cf7)
+
+<h1 align="center">Hi 👋, I'm Akshay</h
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
 - 🌱 I’m currently learning **Web3 & AI**
