@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Akshay</h
 <h3 align="center">A passionate Fullstack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
+
 
 - 🌱 I’m currently learning **Web3 & AI**
 
@@ -10,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gongaakshay0571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gongaakshay0571" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gonga-akshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonga-akshay" height="30" width="40" /><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/yadla-mani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gonga-akshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonga-akshay" height="30" width="40" /></a>
 <a href="https://fb.com/gonga akshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gonga akshay" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/gongaakshay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gongaakshay" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/gongaakshay0571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gongaakshay0571" height="30" width="40" /></a>
