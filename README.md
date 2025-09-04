@@ -1,5 +1,5 @@
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/901ecde2-4b70-48c0-8f1e-6cdff6bfea66" />
-
+[<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/901ecde2-4b70-48c0-8f1e-6cdff6bfea66" />
+](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" />
