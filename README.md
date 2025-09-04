@@ -1,7 +1,7 @@
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/b7e6bb34-bc42-4253-ad26-bda1ec8c7b60" />
 
 
-<h1 align="center">Hi 👋, I'm Akshay</h
+<h1 align="center">Hi 👋, I'm Akshay</h>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
 
