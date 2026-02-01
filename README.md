@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif" />
 
-- 🌱 I’m currently learning **Web3 & Cloud**
+- 🌱 I’m currently learning **AI & Cloud**
 
 - 📫 How to reach me **gongaakshay0571@gmail.com**
 
